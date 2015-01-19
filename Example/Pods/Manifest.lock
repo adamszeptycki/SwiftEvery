@@ -1,0 +1,14 @@
+PODS:
+  - SwiftEvery (0.1.0)
+
+DEPENDENCIES:
+  - SwiftEvery (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftEvery:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftEvery: aa1cc19b7ecccbf8800e3383556c616233faad30
+
+COCOAPODS: 0.36.0.beta.1
